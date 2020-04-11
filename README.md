@@ -1,2 +1,0 @@
-# React-NovaJornada
-REACT NOVA TURMA BOOTCAMP
